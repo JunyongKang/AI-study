@@ -11,3 +11,7 @@ def anae():
 
 ![](C:\Users\Kjy\Desktop\222.PNG)
 
+
+
+## II.판다스와 seaborn, matplotlib
+
